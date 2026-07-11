@@ -1,0 +1,4 @@
+{
+    "announcement": "WH111下载解析工具，仅供学习交流使用",
+    "purchase_url": "https://afdian.com/item/2ceda3c849ca11f0877252540025c377"
+}
