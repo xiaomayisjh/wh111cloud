@@ -1,0 +1,6 @@
+{
+    "version": "5.1.0",
+    "force_update": false,
+    "download_url": "https://wwbgm.lanzouv.com/b00csbncib",
+    "changelog": "V5.1.0GUI 全新的交互界面，支持直接在软件内搜索、下载资料，修复已知问题 下载密码:wh111"
+}
