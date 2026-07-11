@@ -2,8 +2,8 @@
 # https://curl.haxx.se/rfc/cookie_spec.html
 # This is a generated file! Do not edit.
 
-www.wh111.com	FALSE	/	FALSE	0	sxwhvmlusername	hbwhantplayer
-www.wh111.com	FALSE	/	FALSE	0	sxwhvmluserid	434340
-www.wh111.com	FALSE	/	FALSE	0	sxwhvmlgroupid	10
-www.wh111.com	FALSE	/	FALSE	0	sxwhvmlrnd	S6n8i9tQVkdojxjJnEHu
-www.wh111.com	FALSE	/	FALSE	0	sxwhvmlauth	490d651c4b317589e37880d91fa0641a
+www.wh111.com	FALSE	/	FALSE	1818336249	sxwhvmlusername	hbwhuser0001
+www.wh111.com	FALSE	/	FALSE	1818336249	sxwhvmluserid	444155
+www.wh111.com	FALSE	/	FALSE	1818336249	sxwhvmlgroupid	10
+www.wh111.com	FALSE	/	FALSE	1818336249	sxwhvmlrnd	Hk8F1FEy9FRWWwR1cAyg
+www.wh111.com	FALSE	/	FALSE	1818336249	sxwhvmlauth	87509b7dc3881e3c052ce1bc349302e6
