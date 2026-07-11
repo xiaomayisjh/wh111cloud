@@ -1,0 +1,10 @@
+# HTTP Cookie File Created by Cookies Manager+ v1.13.1 on Sun Jun 08 2025 10:24:53 GMT+0800
+
+#template:{HOST}	{ISDOMAIN_RAW}	{PATH}	{ISSECURE_RAW}	{EXPIRES_RAW}	{NAME}	{CONTENT}
+
+
+www.wh111.com	FALSE	%2F	FALSE	2064709464	sxwhvmlauth	04dcf23d09ad4c0a1ec4196b9d76c2d0
+www.wh111.com	FALSE	%2F	FALSE	2064709464	sxwhvmlgroupid	10
+www.wh111.com	FALSE	%2F	FALSE	2064709464	sxwhvmlrnd	yTHetRezOqmakF8tDRJx
+www.wh111.com	FALSE	%2F	FALSE	2064709464	sxwhvmluserid	434340
+www.wh111.com	FALSE	%2F	FALSE	2064709464	sxwhvmlusername	hbwhantplayer
